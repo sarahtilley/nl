@@ -24,7 +24,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -569,17 +568,6 @@ h6,
 #contacts4-x .btn {
   font-size: 13px;
   font-family: 'Open Sans', sans-serif;
-}
-#social-buttons3-1v .mbr-section-title,
-#social-buttons3-1v .btn-social {
-  color: #fff;
-}
-#social-buttons3-1v .mbr-section-title {
-  font-size: 19px;
-  font-family: 'Open Sans', sans-serif;
-}
-#social-buttons3-1v .mbr-section-title SPAN {
-  text-align: center;
 }
 #ext_menu-1t .hide-buttons .nav-btn {
   display: none !important;

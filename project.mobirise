@@ -153,7 +153,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/afbeelding-binnenhoes-zw.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/afbeelding-binnenhoes-zw-nog-eens.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
@@ -514,7 +514,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/afbeelding-binnenhoes-zw.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/afbeelding-binnenhoes-zw-nog-eens.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "overlay": false,
@@ -552,45 +552,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mbri-success mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(255, 255, 255);\"></span></a>"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "font-size": "19px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-section-title SPAN": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-1v",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#191616",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "<span style=\"font-weight: normal;\">SHARE &nbsp;THIS &nbsp;PAGE!</span>"
         }
       ]
     },
