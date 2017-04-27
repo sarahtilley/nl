@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 78,
+    "uniqCompNum": 80,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -154,9 +154,9 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
             },
             ".mbr-section-title SPAN": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
-              "font-size": "100px",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "font-size": "80px",
               "color": "#ffffff"
             }
           },
@@ -165,7 +165,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/afbeelding-binnenhoes-zw-nog-eens.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/index-planten.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "bgVideo": {
@@ -180,7 +180,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">&nbsp; &nbsp; SARAH </span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<br><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; TILLEY &nbsp; &nbsp; &nbsp; &nbsp;</span><br>",
+          "title": "<span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">&nbsp; &nbsp; SARAH </span>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;<br><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;TILLEY &nbsp; &nbsp; &nbsp; &nbsp;</span><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
         },
@@ -222,7 +222,7 @@
             "DIV": {
               "color": "#ffffff",
               "text-align": "center",
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -278,8 +278,8 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
               "color": "#000000",
               "font-size": "16px"
             },
@@ -336,7 +336,7 @@
           "title1": "ABCDARIUM",
           "subtitle1": "",
           "caption1": "Dit ABCdarium komt in een publicatie van 28 pagina’s –&nbsp;waarvan hier slechts enkele&nbsp;worden weergegeven –&nbsp;waarbij op elke pagina exact <br>één letter behandeld wordt.",
-          "button1": "<a data-app-btn=\"true\" href=\"ABCDARIUM.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>&nbsp;</a>    ",
+          "button1": "<a data-app-btn=\"true\" href=\"ABCDARIUM.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>&nbsp;</a>    ",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/mop-600x871-93.jpg",
@@ -352,7 +352,7 @@
           "title2": "MOP VAN<span style=\"font-weight: normal;\"> </span>FORMAAT",
           "subtitle2": "",
           "caption2": "In deze mop op&nbsp;posterformaat is met een beeldende typografie ingespeeld op de inhoudelijke sfeer en context van de mop.<br><br>",
-          "button2": "<a data-app-btn=\"true\" href=\"MOP VAN FORMAAT.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp;<span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>",
+          "button2": "<a data-app-btn=\"true\" href=\"MOP VAN FORMAAT.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;<span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/afbeelding-achterkant-600x600-2.jpg",
@@ -368,7 +368,7 @@
           "title3": "PLATENHOES",
           "subtitle3": "",
           "caption3": "Een nieuw ontworpen platenhoes voor een reeds bestaande, namelijk&nbsp;<i>Music for Paradise </i>van<i> <br>de groep Mind over Matter</i>.&nbsp;<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"PLATENHOES.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp;<span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>",
+          "button3": "<a data-app-btn=\"true\" href=\"PLATENHOES.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;<span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/aleeeeeee-600x867-22.jpg",
@@ -381,10 +381,10 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "<span style=\"font-weight: normal;\">BILD</span> HAMBURG",
+          "title4": "BILD HAMBURG",
           "subtitle4": "",
           "caption4": "Deze publicatie op&nbsp;krantenformaat biedt <br>letterlijk een kijk op de kleinste hoeken <br>van de Duitse stad Hamburg.<br> &nbsp;",
-          "button4": "<a data-app-btn=\"true\" href=\"BILDHAMBURG.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp;<span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>",
+          "button4": "<a data-app-btn=\"true\" href=\"BILDHAMBURG.html\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;<span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>",
           "media5": {
             "image": {
               "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
@@ -448,8 +448,8 @@
           "_name": "features3",
           "_styles": {
             "H4": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
               "font-size": "16px"
             },
             "P": {
@@ -564,6 +564,11 @@
             "Theme"
           ],
           "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "social-buttons1-24",
           "_params": {
             "paddingTop": "4",
@@ -578,16 +583,11 @@
             "overlayColor": "#222",
             "facebook": true,
             "twitter": true,
-            "google": false,
+            "google": true,
             "vkontakte": false,
-            "odnoklassniki": true
+            "odnoklassniki": false
           },
-          "text": "SHARE IF YOU LIKE!",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "SHARE IF YOU LIKE!"
         },
         {
           "_tags": [
@@ -618,7 +618,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/afbeelding-binnenhoes-zw-nog-eens.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/index-planten.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "overlay": false,
@@ -674,32 +674,12 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x2798-84-2000x2798-89.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x2798-84.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1397-30-2000x1397-93.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1397-30.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1399-57-2000x1399-1.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1399-57.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumcover-800x1119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumcover.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -708,38 +688,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-41-2000x1398-58.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-41.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1401-73-2000x1401-2.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1401-73.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-62-2000x1398-41.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-62.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1402-27-2000x1402-1.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1402-27.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumab-800x558.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumab.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -748,8 +698,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1402-36-2000x1402-67.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1402-36.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumcd-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumcd.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -758,8 +708,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-5-2000x1398-98.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-5.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumef-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumef.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -768,8 +718,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-10-2000x1398-96.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1398-10.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumgh-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumgh.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -778,8 +728,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1396-35-2000x1396-83.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1396-35.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumij-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumij.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -788,8 +738,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1405-50-2000x1405-49.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1405-50.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumkl-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumkl.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -798,8 +748,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1400-60-2000x1400-34.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1400-60.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariummn-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariummn.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -808,8 +758,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1401-2-2000x1401-56.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x1401-2.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumrq-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumrq.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -818,8 +768,58 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x2792-16-2000x2792-58.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-12-13-om-22-2000x2792-16.png",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumop-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumop.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumst-800x558.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumst.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumuv-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumuv.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumyz-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumyz.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumwx-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumwx.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/abcdariumbackcover-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/abcdariumbackcover.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -869,13 +869,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#ff899e"
+              "background": "#b3b3b3"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#ffadbb!important"
+              "background": "#c4c4c4!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#ffbcc8"
+              "background": "#cccccc"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1055,7 +1055,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mop-1400x2033-87.jpg",
+              "src": "@PROJECT_PATH@/assets/images/grapvanformaat.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1185,12 +1185,12 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/plaatje-numero-dos-2000x2000-36-2000x2000-42.jpg",
-                "image": "@PROJECT_PATH@/assets/images/plaatje-numero-dos-2000x2000-36.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/platenhoesfront-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/platenhoesfront.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1199,8 +1199,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/plaatje-numero-uno-2000x2000-79-2000x2000-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/plaatje-numero-uno-2000x2000-79.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/platenhoesback-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/platenhoesback.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1329,8 +1329,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cover-nog-nekeeeeer-2000x1344-74-2000x1344-29.jpg",
-                "image": "@PROJECT_PATH@/assets/images/cover-nog-nekeeeeer-2000x1344-74.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburgbackcover-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburgbackcover.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1339,8 +1339,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1399-80-2000x1399-63.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-2000x1399-80.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg2-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburg2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1349,8 +1349,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1405-57-2000x1405-52.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-2000x1405-57.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg4-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburg4.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1359,8 +1359,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1431-86-2000x1431-70.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x1431-86.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg6-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburg6.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1487,8 +1487,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rembetiko-2000x2941-97-2000x2941-23.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rembetiko-2000x2941-97.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21-800x1160.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21.45.33.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1497,8 +1497,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/my-grandfathers-people-2000x2937-23-2000x2937-22.jpg",
-                "image": "@PROJECT_PATH@/assets/images/my-grandfathers-people-2000x2937-23.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21-800x1163.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21.45.52.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1507,8 +1507,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/a-touch-of-spice-2000x2900-96-2000x2900-65.jpg",
-                "image": "@PROJECT_PATH@/assets/images/a-touch-of-spice-2000x2900-96.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21-800x1158.png",
+                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21.45.24.png",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1635,144 +1635,52 @@
             "paddingBottom": 4,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-800x515.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica1.jpg",
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-1-800x505.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-1.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica2.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-2-800x507.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-2.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica3.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-3-800x505.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-3.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica4.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-5-800x506.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-5.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica8.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-7-800x505.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-7.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica5.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-6-800x506.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-6.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica7.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-4-800x499.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-4.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica6.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-11-800x503.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-11.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica10.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-9-800x515.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-9.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica12.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-8-800x502.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-8.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica11.jpg",
                 "active": false
               },
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-10-800x501.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-10.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-12-800x506.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-12.jpg",
-                "caption": "Type caption here",
+                "image": "@PROJECT_PATH@/assets/images/herbariumgrafica9.jpg",
                 "active": true
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc-13-800x509.jpg",
-                "image": "@PROJECT_PATH@/assets/images/dsc-13.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": "1",
