@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 95,
+    "uniqCompNum": 98,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -33,8 +33,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "SARAH TILLEY",
+        "meta_descr": "Sarah Tilley, online portfolio, 2015, LUCA School of Arts",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -129,62 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1k\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-23\" aria-expanded=\"false\"><span class=\"etl-icon icon-tools mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-x\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "46px",
-              "text-align": "right"
-            },
-            ".mbr-section-lead": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "22px"
-            },
-            ".mbr-section-lead SPAN": {
-              "font-size": "13px",
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Arimo', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
-              "font-size": "46px",
-              "color": "#ffffff",
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header1-1",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/index-planten.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<br><br><span style=\"line-height: 1.1;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><br><span style=\"line-height: 1.1;\"><br></span><br><span style=\"line-height: 1.1;\"><br></span><span style=\"line-height: 1.1;\">SARAH &nbsp;TILLEY</span><br>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box1-1z\" aria-expanded=\"false\"><span class=\"etl-icon icon-profile-female mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-23\" aria-expanded=\"false\"><span class=\"etl-icon icon-tools mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts4-x\" aria-expanded=\"false\"><span class=\"etl-icon icon-envelope mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></span></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_tags": [
@@ -217,6 +162,53 @@
           "title": "PRE MADE BLOCKS"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffbcc8",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
+              "font-size": "46px",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "22px"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-size": "17px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-2p",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/index-planten-1.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "SARAH &nbsp;TILLEY",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CLICK TO EDIT</a>"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -224,7 +216,9 @@
             "DIV": {
               "color": "#ffffff",
               "text-align": "center",
-              "font-size": "36px"
+              "font-size": "36px",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
             }
           },
           "_tags": [
@@ -248,8 +242,8 @@
             },
             "H3": {
               "font-size": "36px",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
               "color": "#232323"
             },
             "SPAN": {
@@ -291,8 +285,8 @@
               "font-size": "10px"
             },
             "P": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
               "color": "#000000",
               "font-size": "12px"
             },
@@ -337,7 +331,7 @@
           },
           "title1": "ABCDARIUM",
           "subtitle1": "",
-          "caption1": "Dit ABCdarium komt in een publicatie van 28 pagina’s –&nbsp;waarvan hier slechts enkele&nbsp;worden weergegeven –&nbsp;waarbij op elke pagina exact <br>één letter behandeld wordt.",
+          "caption1": "Dit ABCdarium komt in een publicatie van <br>28 pagina’s –&nbsp;waarvan hier slechts enkele&nbsp;worden weergegeven –&nbsp;waarbij op elke pagina exact <br>één letter behandeld wordt.",
           "button1": "<a data-app-btn=\"true\" href=\"ABCDARIUM.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span>&nbsp;</a>    ",
           "media2": {
             "image": {
@@ -353,7 +347,7 @@
           },
           "title2": "MOP VAN<span style=\"font-weight: normal;\"> </span>FORMAAT",
           "subtitle2": "",
-          "caption2": "In deze mop op&nbsp;posterformaat is met een beeldende typografie ingespeeld op de inhoudelijke sfeer en context van de mop.<br><br>",
+          "caption2": "In deze mop op&nbsp;posterformaat is met een <br>beeldende typografie ingespeeld op de <br>inhoudelijke sfeer en context van de mop.<br><br>",
           "button2": "<a data-app-btn=\"true\" href=\"MOP VAN FORMAAT.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp;<span class=\"mbri-plus mbr-iconfont mbr-iconfont-btn\" style=\"color: rgb(0, 0, 0);\"></span></a>",
           "media3": {
             "image": {
@@ -418,8 +412,8 @@
               "text-align": "center"
             },
             "H3": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700",
               "font-size": "36px",
               "color": "#232323"
             },
@@ -568,7 +562,9 @@
           "_name": "social-buttons1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Arimo', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Arimo:400,700"
             }
           },
           "_anchor": "social-buttons1-24",
@@ -589,7 +585,7 @@
             "vkontakte": false,
             "odnoklassniki": false
           },
-          "text": "SHARE IF YOU LIKE!"
+          "text": "SHARE IF YOU LIKE"
         },
         {
           "_tags": [
@@ -620,7 +616,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/index-planten.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/index-planten-1.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "overlay": false,
@@ -903,7 +899,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/grapvanformaat.jpg",
+              "src": "@PROJECT_PATH@/assets/images/grapvanformaat-1.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -1023,8 +1019,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bildhamburgbackcover-800x545.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bildhamburgbackcover.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburgbackcover-1-800x545.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburgbackcover-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1033,8 +1029,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg2-800x559.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bildhamburg2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg2-1-800x559.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburg2-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1043,8 +1039,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg4-800x562.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bildhamburg4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg4-1-800x562.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburg4-1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1053,8 +1049,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg6-800x572.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bildhamburg6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bildhamburg6-1-800x572.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bildhamburg6-1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1075,7 +1071,8 @@
     },
     "ISTANBUL EKSPRESS.html": {
       "settings": {
-        "meta_descr": "Sarah Tilley, istanbul ekspres, 2016, LUCA School of Arts"
+        "meta_descr": "Sarah Tilley, istanbul ekspres, 2016, LUCA School of Arts",
+        "title": "ISTANBUL EKSPRES"
       },
       "components": [
         {
@@ -1105,8 +1102,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21-800x1160.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21.45.33.png",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspres2-800x1165.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspres2.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1115,8 +1112,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21-800x1163.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21.45.52.png",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspres3-800x1163.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspres3.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1125,8 +1122,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21-800x1158.png",
-                "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2017-04-27-om-21.45.24.png",
+                "thumb": "@PROJECT_PATH@/assets/images/istanbulekspres1-800x1162.jpg",
+                "image": "@PROJECT_PATH@/assets/images/istanbulekspres1.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -1147,7 +1144,7 @@
     },
     "HERBARIUMGRAFICA.html": {
       "settings": {
-        "title": "Site Maker Title",
+        "title": "HERBARIUM GRAFICA",
         "meta_descr": "Sarah Tilley, herbarium grafica, 2017, LUCA School of Arts"
       },
       "components": [
@@ -1239,7 +1236,7 @@
     },
     "privacy.html": {
       "settings": {
-        "title": "cookie policy",
+        "title": "COOKIE POLICY",
         "meta_descr": "Sarah Tilley, cookie policy, privacy"
       },
       "components": [
