@@ -6,7 +6,7 @@
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
-        "primaryColor": "#149dcc",
+        "primaryColor": "#0c00ff",
         "secondaryColor": "#ff3366",
         "successColor": "#F7ED4A",
         "infoColor": "#82786E",
@@ -14,7 +14,7 @@
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
         "display1Font": "Roboto",
-        "display1Size": "5.6",
+        "display1Size": "15",
         "display2Font": "Rubik",
         "display2Size": 3,
         "display5Font": "Rubik",
@@ -24,8 +24,8 @@
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": [
         "#180df2",
@@ -49,7 +49,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "sarah, tilley, Sarah, Tilley, Sarah Tilley, graphics, design, graphic design, grafisch, ontwerp, grafisch ontwerp, portfolio, webdesign ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
